@@ -1,0 +1,25 @@
+{
+  "name": "redux-dnd",
+  "version": "0.0.1",
+  "description": "Testing React DND with React Router and Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lockstep/redux-dnd.git"
+  },
+  "keywords": [
+    "react",
+    "dnd",
+    "router",
+    "redux"
+  ],
+  "author": "Paul Hiatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lockstep/redux-dnd/issues"
+  },
+  "homepage": "https://github.com/lockstep/redux-dnd#readme"
+}
